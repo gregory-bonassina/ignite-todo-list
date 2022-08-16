@@ -1,0 +1,15 @@
+.wrapper {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 15.25rem;
+    border-top: 1px solid var(--gray-400);
+    border-radius: 8px;
+
+    line-height: 1.4rem;
+}
+
+.wrapper img {
+    margin-bottom: 1rem;
+}
